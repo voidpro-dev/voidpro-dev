@@ -4,8 +4,8 @@
 
 ## Bot Status
   [![Test](https://github.com/akishoudayo/python-bot/actions/workflows/test.yml/badge.svg)](https://github.com/akishoudayo/python-bot/actions/workflows/test.yml)
-  [![Test](https://akishoudayo.herokuapp.com/versionsvg/)](https://github.com/akishoudayo/python-bot/releases/latest)
-  [![Test](https://akishoudayo.herokuapp.com/releasesvg/akishoudayo/python-bot/)](https://akishoudayo.herokuapp.com/)
+  [![Test](https://akishoudayo.herokuapp.com/versionsvg/)]()
+  [![Test](https://akishoudayo.herokuapp.com/releasesvg/akishoudayo/python-bot/)](https://github.com/akishoudayo/python-bot/releases/latest)
 
 ## Support 
   - [Official Discord](https://discord.gg/ewugvGV8YP)
