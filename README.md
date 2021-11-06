@@ -1,10 +1,12 @@
 ## Stats
-<a herf="."><img align="up" src="https://github-readme-stats.vercel.app/api?username=akishoudayo&count_private=true&show_icons=true" /></a>
-<a herf="."><img align="up" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akishoudayo&count_private=true&show_icons=true" /></a>
+  [![Test](https://github-readme-stats.vercel.app/api?username=akishoudayo&layout=compact)](https://github.com/akishoudayo/)
+  [![Test](https://github-readme-stats.vercel.app/api/wakatime?username=akishoudayo&layout=compact)](https://github.com/akishoudayo/)
+  [![Test](https://github-readme-stats.vercel.app/api/top-langs/?username=akishoudayo&layout=compact)](https://github.com/akishoudayo/)
 
 ## Bot Status
+  [![Test](https://github-readme-stats.vercel.app/api/pin/?username=akishoudayo&repo=python-bot)](https://github.com/akishoudayo/python-bot)
   [![Test](https://github.com/akishoudayo/python-bot/actions/workflows/test.yml/badge.svg)](https://github.com/akishoudayo/python-bot/actions/workflows/test.yml)
-  [![Test](https://akishoudayo.herokuapp.com/versionsvg/)]()
+  [![Test](https://akishoudayo.herokuapp.com/versionsvg)](https://akishoudayo.herokuapp.com)
   [![Test](https://akishoudayo.herokuapp.com/releasesvg/akishoudayo/python-bot/)](https://github.com/akishoudayo/python-bot/releases/latest)
 
 ## Support 
