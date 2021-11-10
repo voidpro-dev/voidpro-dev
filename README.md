@@ -10,7 +10,7 @@
   
   [![Test](https://github.com/akishoudayo/python-bot/actions/workflows/test.yml/badge.svg)](https://github.com/akishoudayo/python-bot/actions/workflows/test.yml)
   [![Test](https://akishoudayo.herokuapp.com/botstatus/akishoudayo-bot)](https://akishoudayo.herokuapp.com/)
-  [![Test](https://akishoudayo.herokuapp.com/versionsvg)](https://akishoudayo.herokuapp.com)
+  [![Test](https://akishoudayo.herokuapp.com/versionsvg?version=1.0.1)](https://akishoudayo.herokuapp.com)
   [![Test](https://akishoudayo.herokuapp.com/releasesvg/akishoudayo/python-bot)](https://github.com/akishoudayo/python-bot/releases/latest)
 
 ## Support 
