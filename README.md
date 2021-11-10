@@ -1,6 +1,6 @@
 ## Stats
   [![Test](https://github-readme-stats.vercel.app/api?username=akishoudayo&layout=compact)](https://github.com/akishoudayo/)
-  [![Test](https://github-readme-stats.vercel.app/api/wakatime?username=f848115f-d7ba-41b5-b937-13ae48393161&layout=compact)](https://github.com/akishoudayo/)
+  [![Test](https://github-readme-stats.vercel.app/api/wakatime?username=akishoudayo&layout=compact)](https://github.com/akishoudayo/)
   [![Test](https://github-readme-stats.vercel.app/api/top-langs/?username=akishoudayo&layout=compact)](https://github.com/akishoudayo/)
 
 ## Bot Status
