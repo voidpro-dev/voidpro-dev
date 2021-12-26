@@ -4,7 +4,7 @@
  
  [![Test](https://github-readme-stats.vercel.app/api/wakatime?username=akishoudayo&layout=compact)](https://wakatime.com/@akishoudayo)
  [![Test](https://github-readme-stats.vercel.app/api/top-langs/?username=akishoudayo&layout=compact)](https://github.com/akishoudayo)
- [![Test](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=akishoudayo&theme=default) 
+ [![Test](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=akishoudayo&theme=default)](https://github.com/akishoudayo)
 
 ## Bot Status
  [![Test](https://github-readme-stats.vercel.app/api/pin/?username=akishoudayo&repo=python-bot)](https://github.com/akishoudayo/python-bot)
