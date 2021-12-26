@@ -11,8 +11,8 @@
   
  [![Test](https://github.com/akishoudayo/Discord-Bot/actions/workflows/test.yml/badge.svg)](https://github.com/akishoudayo/Discord-Bot/actions/workflows/test.yml)
  [![Test](https://akishoudayo.herokuapp.com/botstatus?app=akishoudayo-bot)](https://akishoudayo.herokuapp.com)
- [![Test](https://akishoudayo.herokuapp.com/versionsvg)](https://github.com/akishoudayo/python-bot/commits/main)
- [![Test](https://akishoudayo.herokuapp.com/releasesvg?repo=akishoudayo/python-bot)](https://github.com/akishoudayo/Discord-Bot/releases/latest)
+ [![Test](https://akishoudayo.herokuapp.com/versionsvg)](https://github.com/akishoudayo/python-bot/commits/master)
+ [![Test](https://akishoudayo.herokuapp.com/releasesvg?repo=akishoudayo/python-bot)](https://github.com/akishoudayo/python-bot/releases/latest)
 
 ## Links
  - [Invite Bot](https://discord.com/api/oauth2/authorize?client_id=907167351634542593&permissions=8&scope=bot%20applications.commands)
