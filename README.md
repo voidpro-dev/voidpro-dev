@@ -9,7 +9,7 @@
 ## Bot Status
  [![Test](https://github-readme-stats.vercel.app/api/pin/?username=akishoudayo&repo=python-bot)](https://github.com/akishoudayo/python-bot)
   
- [![Test](https://github.com/akishoudayo/Discord-Bot/actions/workflows/test.yml/badge.svg)](https://github.com/akishoudayo/Discord-Bot/actions/workflows/test.yml)
+ [![Test](https://github.com/akishoudayo/python-bot/actions/workflows/test.yml/badge.svg)](https://github.com/akishoudayo/python-bot/actions/workflows/test.yml)
  [![Test](https://akishoudayo.herokuapp.com/botstatus?app=akishoudayo-bot)](https://akishoudayo.herokuapp.com)
  [![Test](https://akishoudayo.herokuapp.com/versionsvg)](https://github.com/akishoudayo/python-bot/commits/master)
  [![Test](https://akishoudayo.herokuapp.com/releasesvg?repo=akishoudayo/python-bot)](https://github.com/akishoudayo/python-bot/releases/latest)
