@@ -1,6 +1,6 @@
 ## Stats
   <a href="http://twitter.com/akishou_dayo">
-    <img height="20" src="https://img.shields.io/twitter/follow/akishou_dayo?label=Twitter&logo=twitter&style=flat" />
+    <img height="20" src="https://img.shields.io/twitter/follow/akishou_dayo?label=Twitter&logo=twitter&style=flat">
  [![Test](https://github-readme-stats.vercel.app/api/wakatime?username=akishoudayo&layout=compact)](https://wakatime.com/@akishoudayo)
  [![Test](https://github-readme-stats.vercel.app/api/top-langs/?username=akishoudayo&layout=compact)](https://github.com/akishoudayo)
 ## Bot Status
