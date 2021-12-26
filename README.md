@@ -1,6 +1,6 @@
 ## Stats
  <a href="https://github.com/akishoudayo/akishoudayo"><img src="https://komarev.com/ghpvc/?username=akishoudayo" alt="akishou_dayo" />
- <a href="http://twitter.com/akishou_dayo"><img height="20" src="https://img.shields.io/twitter/follow/akishou_dayo?label=Twitter&logo=twitter&style=flat">
+ <a href="http://twitter.com/akishou_dayo"><img height="20" src="https://img.shields.io/twitter/follow/trash_developer?label=Twitter&logo=twitter&style=flat">
  
  [![Test](https://github-readme-stats.vercel.app/api/wakatime?username=akishoudayo&layout=compact)](https://wakatime.com/@akishoudayo)
  [![Test](https://github-readme-stats.vercel.app/api/top-langs/?username=akishoudayo&layout=compact)](https://github.com/akishoudayo)
