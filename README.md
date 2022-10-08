@@ -4,7 +4,7 @@
  
  [![Test](https://github-readme-stats.vercel.app/api/wakatime?username=voidpro&layout=compact)](https://wakatime.com/@voidpro)
  [![Test](https://github-readme-stats.vercel.app/api/top-langs/?username=voidpro&layout=compact)](https://github.com/bw-voidpro)
- [![Test](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bw_voidpro&theme=default)](https://github.com/bw_voidpro)
+ [![Test](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bw-voidpro&theme=default)](https://github.com/bw_voidpro)
 
 ## Bot Status
  [![Test](https://github-readme-stats.vercel.app/api/pin/?username=akishoudayo&repo=python-bot)](https://github.com/akishoudayo/python-bot)
