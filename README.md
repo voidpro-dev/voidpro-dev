@@ -3,7 +3,7 @@
  <a href="http://twitter.com/bw_voidpro"><img height="20" src="https://img.shields.io/twitter/follow/bw_voidpro?label=Twitter&logo=twitter&style=flat">
  
  [![Test](https://github-readme-stats.vercel.app/api/wakatime?username=voidpro&layout=compact)](https://wakatime.com/@voidpro)
- [![Test](https://github-readme-stats.vercel.app/api/top-langs?username=voidpro&layout=compact)](https://github.com/bw-voidpro)
+ [![Test](https://github-readme-stats.vercel.app/api/top-langs?username=bw-voidpro&layout=compact)](https://github.com/bw-voidpro)
  [![Test](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bw-voidpro&theme=default)](https://github.com/bw_voidpro)
 
 ## Bot Status
