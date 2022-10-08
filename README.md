@@ -1,5 +1,5 @@
 ## Stats
- <a href="https://github.com/akishoudayo/akishoudayo"><img src="https://komarev.com/ghpvc/?username=akishoudayo" alt="akishou_dayo" />
+ <a href="https://github.com/bw_voidpro"><img src="https://komarev.com/ghpvc/?username=bw_voidpro" alt="akishou_dayo" />
  <a href="http://twitter.com/bw_voidpro"><img height="20" src="https://img.shields.io/twitter/follow/bw_voidpro?label=Twitter&logo=twitter&style=flat">
  
  [![Test](https://github-readme-stats.vercel.app/api/wakatime?username=akishoudayo&layout=compact)](https://wakatime.com/@akishoudayo)
