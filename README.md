@@ -8,4 +8,4 @@
 ## Links
  - [Discord](https://discord.gg/GqgpUKcdQp)
  - [Twitter](https://twitter.com/voidpro_)
- - [Invite Bot](https://discord.com/api/oauth2/authorize?client_id=1030038517260222497&permissions=8&scope=bot%20applications.commands)
+ - [Invite Bot](https://discord.com/api/oauth2/authorize?client_id=1030038517260222497&permissions=1380030147654&scope=bot%20applications.commands)
