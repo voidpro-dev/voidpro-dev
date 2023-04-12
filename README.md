@@ -1,7 +1,6 @@
 <a href="https://github.com/voidpro-dev"><img src="https://komarev.com/ghpvc/?username=voidpro-dev" alt="voidpro-dev" />
 <a href="http://twitter.com/voidpro_dev"><img height="20" src="https://img.shields.io/twitter/follow/voidpro_dev?label=Twitter&logo=twitter&style=flat"><br>
 [![Test](https://github-readme-stats.vercel.app/api/wakatime?username=voidpro&layout=compact)](https://wakatime.com/@voidpro)<br>
-[![Test](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=voidpro-dev&theme=default)](https://github.com/voidpro-dev)
 
 ## Links
  - [Discord](https://discord.gg/overlay)
