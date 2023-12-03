@@ -3,4 +3,4 @@
 ## Links
  - [Discord](https://api.voids.top/discord)
  - [Twitter](https://twitter.com/voidpro_dev)
- - [Please invite my bot!](https://discord.com/api/oauth2/authorize?client_id=1030038517260222497&permissions=1380030147654&scope=bot%20applications.commands)
+ - [Please invite my bot!](https://discord.com/api/oauth2/authorize?client_id=1130546409913995354&permissions=1380030147654&scope=bot%20applications.commands)
