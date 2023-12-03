@@ -1,4 +1,3 @@
-<a href="https://github.com/voidpro-dev"><img src="https://komarev.com/ghpvc/?username=voidpro-dev" alt="voidpro-dev" />
 [![Test](https://github-readme-stats.vercel.app/api/wakatime?username=voidpro&layout=compact)](https://wakatime.com/@voidpro)<br>
 
 ## Links
