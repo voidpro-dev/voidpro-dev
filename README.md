@@ -10,4 +10,4 @@ AI can't reverse (w)asm. It's time to learn. \
 automate everything.
 
 https://voids.top \
-https://github.com/voids.top
+https://github.com/voids-top
